@@ -1,0 +1,2 @@
+* ramda-map-lens
+Ramda lenses for Map/WeakMaps.

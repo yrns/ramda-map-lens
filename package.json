@@ -1,0 +1,17 @@
+{
+  "name": "ramda-map-lens",
+  "version": "0.0.1",
+  "description": "",
+  "main": "mapLens.js",
+  "dependencies": {
+    "ramda": "^0.22.1"
+  },
+  "devDependencies": {
+    "tape": "^4.6.0"
+  },
+  "scripts": {
+    "test": "tape mapLens.js"
+  },
+  "author": "yrns",
+  "license": "MIT"
+}
